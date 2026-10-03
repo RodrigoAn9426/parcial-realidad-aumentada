@@ -1,0 +1,7 @@
+{
+  "name": "ra-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
